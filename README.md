@@ -1,7 +1,9 @@
-![image](https://user-images.githubusercontent.com/39984084/236602333-fc09a6f8-bb71-4411-893f-d1bc781881af.png)
+![image](![S__92946436](https://github.com/yuinaaaaa/onigiri/assets/169994640/ab22e025-bc3e-42e1-a62b-ad3d529dbe22)
+)
 # 土方歳三
 天保6年5月5日-明治2年5月11日
-- 出身：武蔵国
+- 出身：武蔵国多摩郡石田村（東京都日野市石田）
+- 10人兄弟の10番目（諸説あり）
 
 
 
