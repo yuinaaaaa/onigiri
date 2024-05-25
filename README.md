@@ -5,8 +5,8 @@
 - 出身：武蔵国多摩郡石田村（東京都日野市石田）
 - 10人兄弟の10番目（諸説あり）
 
-aaa
-iii
+- aaa
+- iii
 
 # データ目録
 ## [dataset（csvなどのデータ）](https://github.com/oyo-k/book/tree/master/dataset)
