@@ -9,6 +9,7 @@
 - iii
 - uuu
 - eee
+- ooo
 # データ目録
 ## [dataset（csvなどのデータ）](https://github.com/oyo-k/book/tree/master/dataset)
 - 本書に必要なcsvなどのデータがあります。
